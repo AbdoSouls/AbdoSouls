@@ -35,7 +35,8 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-cpp%20-05122A?style=flat&logo=cpp)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=&logoColor=1572B6)&nbsp;
 
 
 
